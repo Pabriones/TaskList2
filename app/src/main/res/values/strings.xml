@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TaskList2</string>
+    <string name="task_name_hint">Task Name Hint</string>
+    <string name="task_notes_hint">Task Notes Hint</string>
+    <string name="task_name">Task Name</string>
+    <string name="task_notes">Task Notes</string>
+</resources>
